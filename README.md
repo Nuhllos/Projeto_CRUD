@@ -1,2 +1,2 @@
 # Projeto_CRUD
-Sistema web com detalhes sobre alunos, cursos e matriculas: é possivel fazer a inserção, atualização e exclusão desses atores (CRUD). É também possivel fazer o login e cadastro de novos alunos, assim como a recuperação por email dessas contas.
+Sistema web com detalhes sobre alunos, cursos e matriculas: é possivel fazer a inserção, atualização e exclusão desses atores (CRUD). É também possivel fazer o login e cadastro de novos alunos, assim como a recuperação por email dessas contas (note que para implementar a recuperação de contas o desenvolver deverá mudar e-mail e senha registrados na linha 64 e 65 do arquivo recuperation.php em site/php/).
